@@ -49,13 +49,13 @@
 // }
 
 //
-let message;
-let login = "Derector";
-login == "Employee"
-  ? (message = "Hello")
-  : login == "Derector"
-  ? (message = "Gretings")
-  : login == ""
-  ? (message = "No login")
-  : (message = "");
-  console.log(message);
+// let message;
+// let login = "Derector";
+// login == "Employee"
+//   ? (message = "Hello")
+//   : login == "Derector"
+//   ? (message = "Gretings")
+//   : login == ""
+//   ? (message = "No login")
+//   : (message = "");
+//   console.log(message);
