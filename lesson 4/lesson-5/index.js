@@ -27,4 +27,8 @@
 //  console.log(i);
 // }
 
+// switch :
+
+/// switch-xam if else , turnery bilan bitta vazifa bajaradi :
+//// farqi uni shartini aniq qilib beriladi ;
 //
